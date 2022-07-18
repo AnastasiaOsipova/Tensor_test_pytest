@@ -1,2 +1,2 @@
 # Tensor_test_pytest
-Автотест с использованием Seleniun и Pytest
+Автотест с использованием Selenium и Pytest
